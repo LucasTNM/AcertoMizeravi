@@ -3,7 +3,7 @@
 Este programa permite realizar operações de adição, subtração e multiplicação com números grandes em formato de string. Ele foi desenvolvido em C e pode lidar com números de até 504 dígitos.
 Projeto: "Acertou Miseravi"
 Instituição: Instituto Federal de Brasília - Campus Taguatinga
-Nome: Lucas Tony Magalhães de Araújo
+Nome: Lucas Tony
 
 ## Como Usar
 
